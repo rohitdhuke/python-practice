@@ -46,3 +46,10 @@
 # n = int(input())
 # li = [int(x) for x in input().split()]
 # print(li)
+
+# li = [ele**2 for ele in range(10) if ele%3 ==0]
+# print(li)
+li = [[ i*j for j in range(4)] for i in range(3)]
+print(li)
+
+
