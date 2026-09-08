@@ -65,7 +65,7 @@
 #
 # Python strings are immutable, so characters cannot be removed from the original string in place.
 # Your task: Find the first non-repeating character.
-s = "aabbcddee"
+s = "aabbcdfdee"
 i=0
 while i<len(s):
     count=0
@@ -77,6 +77,7 @@ while i<len(s):
     if count ==1:
         print(s[i])
         break
+        # this break is for finding first non repeating character
     i+=1
 
 
