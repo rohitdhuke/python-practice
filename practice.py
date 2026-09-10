@@ -8,4 +8,6 @@
 # num = 5
 # ans = func(num-1)
 # print(ans)
-print(~(~2))
+# print(~(~2))
+
+
