@@ -1,0 +1,13 @@
+notebook,original_start_cell_0_based,original_end_cell_0_based,total_cells,code_cells,date_evidence
+Undated/01_before_20_September.ipynb,0,41,42,42,Date not recorded
+2026-09-20/practice.ipynb,42,51,10,9,Explicit heading
+2026-09-21/practice.ipynb,52,59,8,7,Explicit heading; following cells assumed same session
+2026-09-23/practice.ipynb,60,77,18,16,Explicit headings at cells 60 and 65
+Undated/02_OOP_and_decorators.ipynb,78,118,41,40,No explicit date; between Sep 23 and Sep 29 headings
+2026-09-29/practice.ipynb,119,132,14,9,Explicit heading
+2026-09-30/practice.ipynb,133,147,15,12,Explicit heading
+2026-10-04/practice.ipynb,148,166,19,10,Explicit heading
+2026-10-07/practice.ipynb,167,170,4,3,Explicit heading
+2026-10-13/practice.ipynb,171,179,9,4,Explicit heading
+2026-10-14/practice.ipynb,180,186,7,5,Explicit heading
+2026-10-15/practice.ipynb,187,200,14,7,Explicit heading
